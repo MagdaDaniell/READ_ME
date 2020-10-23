@@ -1,5 +1,5 @@
 #### Hello !
-#####  	 As a beginner Software Tester I would like to develop my knowledge and skills in practice, so I am looking for an internship or job as a Software Tester. That is why I am in the process of preparing projects, which I will gladly talk about during the job interview.
+##### 	 As a beginner Software Tester I would like to develop my knowledge and skills in practice, so I am looking for an internship or job as a Software Tester. That is why I am in the process of preparing projects, which I will gladly talk about during the job interview.
 
 ------------
 
@@ -21,6 +21,6 @@ Comprehensive software testing course implementing the basics of manual testing 
 - other tools Selenium IDE, DevTools,
 
 🥇 I took the exam and received a certificate **ISTQB Foundation Level**
-- (Nr.14923/FLCT/2020) 
+-(Nr.14923/FLCT/2020) 
 
 
