@@ -6,7 +6,7 @@
 
 #### So far :
 
-🍔  I have completed **"Software Tester"course (112h) at Software Development Academy** 
+🎓 I have completed **"Software Tester"course (112h) at Software Development Academy** 
 
 Comprehensive software testing course implementing the basics of manual testing theory and practice. Classes in the field of company structures and the cycle of IT projects as well as the basics of test automation and programming with details:
 - test design techniques,
@@ -20,7 +20,7 @@ Comprehensive software testing course implementing the basics of manual testing 
 - basic testing in BDD and Selenium Web Driver,
 - other tools Selenium IDE, DevTools,
 
- I took the exam and received a certificate **ISTQB Foundation Level**
+🥇 I took the exam and received a certificate **ISTQB Foundation Level**
 - (Nr.14923/FLCT/2020) 
 
 
