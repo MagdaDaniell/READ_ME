@@ -21,6 +21,6 @@ Comprehensive software testing course implementing the basics of manual testing 
 - other tools Selenium IDE, DevTools,
 
 🥇 I took the exam and received a certificate **ISTQB Foundation Level**
---(Nr.14923/FLCT/2020) 
+* (Nr.14923/FLCT/2020) 
 
 
