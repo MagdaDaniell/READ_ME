@@ -6,7 +6,7 @@
 
 #### So far :
 
-:fa-book: I have completed **"Software Tester"course (112h) at Software Development Academy** 
+:tw-1f4da:  I have completed **"Software Tester"course (112h) at Software Development Academy** 
 
 Comprehensive software testing course implementing the basics of manual testing theory and practice. Classes in the field of company structures and the cycle of IT projects as well as the basics of test automation and programming with details:
 - test design techniques,
